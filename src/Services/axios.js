@@ -2,8 +2,8 @@
 import axios from 'axios'
 var API_URL = 'https://api.foursquare.com/v2' 
 var params = []
-params['client_id'] = 'OUGK3O5TLXFFH2TPYIPKUQKPB32E0KHD0Z130YPLGUWRX5PE';
-params['client_secret'] = 'FCTLZXQQVMZZADCYNP20HOYLEJZKUFMRNPI0QARD3ORQRZDI';
+params['client_id'] = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
+params['client_secret'] = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
 params['v'] = '20200214'; 
 
 function parseError(messages) {
